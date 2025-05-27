@@ -43,12 +43,3 @@ This script:
 
 The script will prompt you for input and display the AI's response along with token usage statistics.
 
-## Security Note
-
-- The `.env` file containing your API key is gitignored for security reasons
-- Never commit your actual API key to version control
-- Always use `.env.example` as a template for other developers
-
-## License
-
-MIT License
